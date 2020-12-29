@@ -1,0 +1,27 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Ecommerce constuído com \"Vanilajs\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src --verbose",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpbatist/jsamazona.git"
+  },
+  "keywords": [
+    "ecommercejs",
+    "vanillajs"
+  ],
+  "author": "jprogweb46@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpbatist/jsamazona/issues"
+  },
+  "homepage": "https://github.com/jpbatist/jsamazona#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
